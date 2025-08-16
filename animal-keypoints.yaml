@@ -1,0 +1,8 @@
+kpt_shape:
+- 24
+- 3
+names:
+  0: dog
+path: /workspaces/Animal-Behaviour-Detection/animal-pose-data
+train: train/images
+val: valid/images
