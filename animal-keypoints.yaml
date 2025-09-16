@@ -1,8 +1,8 @@
 kpt_shape:
-- 24
+- 17
 - 3
 names:
   0: dog
-path: /workspaces/Animal-Behaviour-Detection/animal-pose-data
-train: train/images
-val: valid/images
+path: c:\Users\aliza\Desktop\yolo\animal-pose-data
+train: train\images
+val: valid\images

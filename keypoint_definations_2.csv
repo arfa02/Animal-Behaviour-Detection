@@ -1,0 +1,18 @@
+Index,Name,Hex colour,Stanford,Animal-pose,(name in animal pose)
+0,Nose,d89000,y,y,Nose
+1,Left eye,ededed,n,y,L_Eye
+2,Right eye,ededed,n,y,R_Eye
+3,Base of left ear,fc90aa,y,y,L_EarBase
+4,Base of right ear,006caa,y,y,R_EarBase
+5,Withers,a9d08e,n,y,Withers
+6,Throat,a9d08e,n,y,Throat
+7,Left front leg: top,d82400,y,y,L_F_Elbow
+8,Right front leg: top,48b455,y,y,R_F_Elbow
+9,Left front leg: paw,d82400,y,y,L_F_Paw
+10,Right front leg: paw,48b455,y,y,R_F_Paw
+11,Left rear leg: top,fcfc00,y,y,L_B_Elbow
+12,Right rear leg: top,0090aa,y,y,R_B_Elbow
+13,Left rear leg: middle joint,fcfc00,y,y,L_B_Knee
+14,Right rear leg: middle joint,0090aa,y,y,R_B_Knee
+15,Left rear leg: paw,fcfc00,y,y,L_B_Paw
+16,Right rear leg: paw,0090aa,y,y,R_B_Paw
